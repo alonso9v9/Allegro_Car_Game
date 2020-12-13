@@ -1,0 +1,31 @@
+﻿Build started 07/10/2017 09:52:24 a.m..
+     1>Project "C:\Users\Luis Alonso\Desktop\TEC 2017\II semestre\Algoritmos\PROYECTO\AutoFantástico\AutoFantástico.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Allegro\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "AutoFantástico.cpp" Objetos.cpp
+         Objetos.cpp
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(20): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(21): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(22): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(34): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(48): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(48): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(62): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(62): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(67): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(67): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(77): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(77): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(87): error C2143: syntax error : missing ';' before '*'
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\objetos.cpp(87): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+         AutoFantástico.cpp
+     1>c:\users\luis alonso\desktop\tec 2017\ii semestre\algoritmos\proyecto\autofantástico\autofantástico.cpp(2): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\Luis Alonso\Desktop\TEC 2017\II semestre\Algoritmos\PROYECTO\AutoFantástico\AutoFantástico.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.89
